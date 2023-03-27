@@ -2,6 +2,8 @@
 
 Hello, thank you for visiting. This is my first upload to GitHub. This is from a dataset taken from Kaggle of sales in 2019 for electronics. I used SQL and Tableau for this project. I imported the dataset to SQL and modified the table for more specific information then brought it to Tableau for the visualizations.
 
+TABLEAU VISUALIZATION: https://public.tableau.com/app/profile/daniel.chin7310/viz/salesproject_16798071316100/Dashboard1
+
 Q: What was the best month for sales? How much was earned that month?
   - December was the best month for sales at $4.61M worth of products sold. Probably because it is the holiday season so people are buying a lot more for gifts.
   
